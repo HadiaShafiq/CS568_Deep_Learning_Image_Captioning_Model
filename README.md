@@ -1,6 +1,6 @@
 # CS568_Deep_Learning_Image_Captioning_Model
 
-We use two techniques mainly CNN and LSTM for image caption generation. We used the pre-trained model Xception. LSTM will use the information from CNN to help generate a description of the image.
+We use two techniques mainly CNN and LSTM for image caption generation. We used the pre-trained model Inception. LSTM will use the information from CNN to help generate a description of the image.
 
 ### Dataset
 Flicker8K dataset is used. Flickr8k data set is a public benchmark dataset for image to sentence description. This data set consists of 8000 images with five captions for each image.
